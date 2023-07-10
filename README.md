@@ -1,2 +1,0 @@
-# Mailchimp_Project
-Mailchimp
